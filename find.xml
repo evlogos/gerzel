@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
-    <option name="defaultScopeName" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
-    <option name="SEARCH_SCOPE" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
+    <option name="customScope" value="Project 'DBW'" />
+    <option name="defaultScopeName" value="Project 'DBW'" />
+    <option name="SEARCH_SCOPE" value="Project 'DBW'" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
