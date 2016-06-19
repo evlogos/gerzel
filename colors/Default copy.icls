@@ -1,0 +1,15 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffb04c" />
+        <option name="BACKGROUND" value="57d5ff" />
+        <option name="EFFECT_COLOR" value="ff857d" />
+        <option name="ERROR_STRIPE_COLOR" value="ff3fc6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

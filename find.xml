@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
+    <option name="defaultScopeName" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
+    <option name="SEARCH_SCOPE" value="File '/home/evlogos/PROODOS/tools/javaScript/js/test/file_existence.js'" />
+    <option name="FILE_MASK" value="*.scala" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>signup.ejs</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.html</mask>
+      <mask>*.*</mask>
+      <mask>*.js</mask>
+      <mask>*.scala</mask>
+    </recentFileMasks>
+  </component>
+</application>

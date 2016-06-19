@@ -1,0 +1,39 @@
+<application>
+  <component name="libraryTable">
+    <library name="jdk1.8">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/PROODOS/tools/NUR_SKALA/lib/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/PROODOS/tools/java/jdk1.8.0_77" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/PROODOS/tools/java/jdk1.8.0_77" recursive="false" type="SOURCES" />
+    </library>
+    <library name="scala-sdk-2.10.6" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_10" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-actors.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-swing.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/lib/scala-actors-migration.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/NUR_SKALA/lib/scalatest_2.10-2.2.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/src/scala-swing-src.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/src/scala-actors-src.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/src/scala-reflect-src.jar!/" />
+        <root url="jar://$USER_HOME$/PROODOS/tools/scala/scala-2.10.6/src/scala-library-src.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
