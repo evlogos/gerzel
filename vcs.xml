@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/evlogos/Git12.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="$USER_HOME$/PROODOS/tools/DeutscheBahnGitRepo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PROODOS/tools/" />
+    <option name="cloneParentDir" value="$USER_HOME$/PROODOS/tools/DeutscheBahnWS" />
   </component>
 </application>
