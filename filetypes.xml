@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="DS_Store" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
