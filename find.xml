@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'DBW'" />
     <option name="defaultScopeName" value="Project 'DBW'" />
     <option name="SEARCH_SCOPE" value="Project 'DBW'" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,9 +15,9 @@
       <mask>signup.ejs</mask>
       <mask>*.xhtml</mask>
       <mask>*.html</mask>
-      <mask>*.*</mask>
       <mask>*.js</mask>
       <mask>*.scala</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
