@@ -75,4 +75,7 @@
   <component name="RefactoringSettings">
     <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
   </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
 </application>
